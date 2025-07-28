@@ -1,0 +1,7 @@
+{
+  "name": "WirZ - Withholding Tax Calculator",
+  "description": "An advanced calculator to determine the applicable Indonesian Withholding Tax (PPh) for transactions, created by Harry Wirahman. Features gross-up calculations and smart analysis to exclude non-taxable items like materials.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
